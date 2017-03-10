@@ -51,9 +51,3 @@ Temporary Items
 
 .apdisk
 /data
-
-.apdisk
-/server/api_key.txt
-
-.apdisk
-/server/api_secret.txt
