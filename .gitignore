@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.apdisk
+/node_modules
+
+.apdisk
+/data
+
+.apdisk
+/server/api_key.txt
+
+.apdisk
+/server/api_secret.txt
